@@ -42,6 +42,6 @@ You may do so in any reasonable manner, but not in any way that suggests the lic
 
 **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the [same license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) as the original.
 
-if you have any questions or concerns on licensing, please contact [seifmegahed@me.com](mailto:seifmegahed@me.com)
+If you have any questions or concerns on licensing, please contact [seifmegahed@me.com](mailto:seifmegahed@me.com)
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
