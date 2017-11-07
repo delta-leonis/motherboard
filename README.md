@@ -5,7 +5,7 @@
 
 ![](./images/MB.png)
 
-The Motherboard has seven identical slots for ![35mm/times40mm](https://latex.codecogs.com/gif.latex?35mm%20%5Ctimes%2040mm) modules which
+The motherboard has seven identical slots for ![35mm/times40mm](https://latex.codecogs.com/gif.latex?35mm%20%5Ctimes%2040mm) modules which
 are connected to a single CPU module slot which has up to seventy general purpose
 inputs and outputs (GPIO), as well as ![SPI](https://latex.codecogs.com/gif.latex?SPI), ![I^2C](https://latex.codecogs.com/gif.latex?I%5E%7B2%7DC), and ![USB](https://latex.codecogs.com/gif.latex?USB) communication buses.
 The Motherboard also supplies each module with a direct battery connection
