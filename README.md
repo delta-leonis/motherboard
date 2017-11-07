@@ -19,7 +19,10 @@ and additionally regulated ![5V](https://latex.codecogs.com/gif.latex?5V) and ![
   * **/license** - License info
 
 ## Version History
-
+  * [v1.0]() - Initial release - *January 2017*
+  * [v1.1]() - Unreleased Version
+  * [v1.2]() - Second production version - *April 2017*
+  * v1.3 - Current version - *June 2017*
 
 ## Block Diagram
 
