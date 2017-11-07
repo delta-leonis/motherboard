@@ -1,11 +1,9 @@
 
-*motherboard*
+# motherboard
 
 > generic motherboard for robotic applications
->
 
 ![](./images/MB.png)
-
 
 The Motherboard has seven identical slots for ![35mm/times40mm](https://latex.codecogs.com/gif.latex?35mm%20%5Ctimes%2040mm) modules which
 are connected to a single CPU module slot which has up to seventy general purpose
@@ -19,6 +17,9 @@ and additionally regulated ![5V](https://latex.codecogs.com/gif.latex?5V) and ![
   * **/gerbers** - Rendered Gerber RS_274x & Excellon files
   * **/images** - README image files
   * **/license** - License info
+
+## Version History
+
 
 ## Block Diagram
 
