@@ -1,4 +1,9 @@
 
+*motherboard*
+
+> generic motherboard for robotic applications
+>
+
 ![](./images/MB.png)
 
 
@@ -12,7 +17,7 @@ and additionally regulated ![5V](https://latex.codecogs.com/gif.latex?5V) and ![
   * **/bom** - Bill of Materials csv files
   * **/design** - Autodesk Eagle design files & support library
   * **/gerbers** - Rendered Gerber RS_274x & Excellon files
-  * **/images** - README images
+  * **/images** - README image files
   * **/license** - License info
 
 ## Block Diagram
