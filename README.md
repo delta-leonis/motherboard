@@ -1,13 +1,19 @@
 
 ![](./images/MB.png)
 
-# System Overview.
 
-The Motherboard has seven identical slots for ![](https://latex.codecogs.com/gif.latex?35mm%20%5Ctimes%2040mm) modules which
+The Motherboard has seven identical slots for ![35mm/times40mm](https://latex.codecogs.com/gif.latex?35mm%20%5Ctimes%2040mm) modules which
 are connected to a single CPU module slot which has up to seventy general purpose
-inputs and outputs (GPIO), as well as ![](https://latex.codecogs.com/gif.latex?SPI), ![](https://latex.codecogs.com/gif.latex?I%5E%7B2%7DC), and ![](https://latex.codecogs.com/gif.latex?USB) communication buses.
+inputs and outputs (GPIO), as well as ![SPI](https://latex.codecogs.com/gif.latex?SPI), ![I^2C](https://latex.codecogs.com/gif.latex?I%5E%7B2%7DC), and ![USB](https://latex.codecogs.com/gif.latex?USB) communication buses.
 The Motherboard also supplies each module with a direct battery connection
-and additionally regulated ![](https://latex.codecogs.com/gif.latex?5V) and ![](https://latex.codecogs.com/gif.latex?3.3V) lines.
+and additionally regulated ![5V](https://latex.codecogs.com/gif.latex?5V) and ![5V](https://latex.codecogs.com/gif.latex?3.3V) lines.
+
+## Repository Contents
+  * **/bom** - Bill of Materials csv files
+  * **/design** - Autodesk Eagle design files & support library
+  * **/gerbers** - Rendered Gerber RS_274x & Excellon files
+  * **/images** - README images
+  * **/license** - License info
 
 ## Block Diagram
 
@@ -26,5 +32,7 @@ You may do so in any reasonable manner, but not in any way that suggests the lic
 **NonCommercial** — You may not use the material for [commercial purposes]().
 
 **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the [same license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) as the original.
+
+if you have any questions or concerns on licensing, please contact [seifmegahed@me.com](mailto:seifmegahed@me.com)
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
