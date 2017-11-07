@@ -3,11 +3,11 @@
 
 # System Overview.
 
-The Motherboard has seven identical slots for $`35mm\times 40mm`$ modules which
+The Motherboard has seven identical slots for ![](https://latex.codecogs.com/gif.latex?35mm%20%5Ctimes%2040mm) modules which
 are connected to a single CPU module slot which has up to seventy general purpose
-inputs and outputs (GPIO), as well as $`SPI`$, $`I^{2}C`$, and $`USB`$ communication buses.
+inputs and outputs (GPIO), as well as ![](https://latex.codecogs.com/gif.latex?SPI), ![](https://latex.codecogs.com/gif.latex?I%5E%7B2%7DC), and ![](https://latex.codecogs.com/gif.latex?USB) communication buses.
 The Motherboard also supplies each module with a direct battery connection
-and additionally regulated 5V and 3.3V lines.
+and additionally regulated ![](https://latex.codecogs.com/gif.latex?5V) and ![](https://latex.codecogs.com/gif.latex?3.3V) lines.
 
 ## Block Diagram
 
@@ -25,6 +25,6 @@ You may do so in any reasonable manner, but not in any way that suggests the lic
 
 **NonCommercial** — You may not use the material for [commercial purposes]().
 
-**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the [same license]() as the original.
+**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the [same license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) as the original.
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
