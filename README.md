@@ -1,6 +1,4 @@
-
-# motherboard
-
+# `motherboard`
 > generic motherboard for robotic applications
 
 ![](./images/MB.png)
@@ -30,7 +28,7 @@ and additionally regulated ![5V](https://latex.codecogs.com/gif.latex?5V) and ![
 
 ![](./images/Supply-Diagram.png)
 
-## License
+## Copyright
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
